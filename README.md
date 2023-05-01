@@ -1,7 +1,7 @@
 # ShowTimeProject
 In this project, I analyzed ShowTime dataset, an OTT media service, and built a regression model to determine the driving factors for first day viewership. 
 
-Skills and tools used
+# Skills and tools used
 
 -Exploratory Data analysis
 -Data Preprocessing
@@ -9,7 +9,7 @@ Skills and tools used
 -Linear regression assumptions
 -Business insights and recommendations
 
-Libraries Used
+# Libraries Used
 
 -NumPy
 -Pandas
